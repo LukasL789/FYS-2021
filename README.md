@@ -1,1 +1,4 @@
-# FYS-2021
+# FYS-2021 Machine Learning
+## Assignment 1
+In this assignment, we are tasked with resolving a friendly debate within the Machine Learning group regarding the genre classification of several favourite songs. While some believe that these songs are influenced by Pop, others argue that the songs are more inspired by Classical music and should be classified accordingly. The aim is to settle this disagreement, by designing a machine learning model that can automatically classify a song based on its features.
+For this task, we will work with the Spotify Features dataset, which provides information on various songs. By focusing on specific features, such as liveness and loudness, we will preprocess the data, build a logistic discrimination classifier, and evaluate its performance by using a confusion matrix and an accuracy score.
